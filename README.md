@@ -1,2 +1,4 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theyadev&theme=github)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=theyadev&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theyadev&theme=github&utcOffset=2)
